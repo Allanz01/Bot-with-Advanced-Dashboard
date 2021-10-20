@@ -3,7 +3,7 @@ module.exports = {
  "description": "",
  "domain": "", // This Domain need to be without https:// or http:// (eg: hydrabot.fun not https://hydrabot.fun)
  "google_analitics": "", 
- "token": "OTAwMzkxMDA4NzMzMzg4ODEx.YXAoeA.xGFf8uSZIV0c-bMJxUYWwcLNkCk",
+ "token": "OTAwMzkxMDA4NzMzMzg4ODEx.YXAoeA.VmcFtrOOIeWjUGlSphdzdPaIoO4",
  "https":"https://",
  "port":"5003",
  "client_id":"",
